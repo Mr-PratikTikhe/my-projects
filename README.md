@@ -7,42 +7,47 @@ Welcome to my GitHub repository! This repository contains various projects that 
 - [Front-end Web Development](#front-end)
 - [Back_end Web Development](#back-end)
 - [Java Development](#java)
+- [AI-ML](#ai-ml)
 - [Others](#others)
 
 ## Front-end Web Development
 
 ### 1. [Weather_ForecastApp_WebApp](https://github.com/Mr-PratikTikhe/Weather_ForecastApp_WebApp.git)
 
-### 2. [Another Project](https://github.com/username/another-project-repo)
-  
+### 2. [Tic-Tac-Toe game](https://github.com/Mr-PratikTikhe/Tic-Tac-Toe-webapp.git)
+
+### 3. [Stop_Watch_WebApp](https://github.com/Mr-PratikTikhe/Stop_Watch_WebApp.git)
+
+### 4. [Quiz_App-WebApp](https://github.com/Mr-PratikTikhe/Quiz_App-WebApp.git)
+
+
 ## Back-end Web Development
 
-### 1. [Data Analysis Project](https://github.com/username/data-analysis-project)
- 
-
-### 2. [Data Visualization Project](https://github.com/username/data-visualization-project)
+### 1. [Basic Fintech app](https://github.com/Mr-PratikTikhe/basic-fintech.git)
    
 ## Java Development
 
 ### 1. [ML Model Project](https://github.com/username/ml-model-project)
   
+### 2. [To_Do_List-JAVA-APP](https://github.com/Mr-PratikTikhe/To_Do_List-JAVA-APP.git)
 
-### 2. [Deep Learning Project](https://github.com/username/deep-learning-project)
+## AI-ML
+
+### 1. [Hackathon Project - Geologist Bot](https://github.com/Mr-PratikTikhe/geochatbot.git)
   
-
 
 ## Others
 
-### 1. [Hackathon Project](https://github.com/username/hackathon-project)
+### 1. [Hackathon Project - Geologist Bot](https://github.com/Mr-PratikTikhe/geochatbot.git)
  
-### 2. [Fintech Platform](https://github.com/username/fintech-platform)
+### 2. [Hackathon Project - Alpha Males](https://github.com/Mr-PratikTikhe/Alpha_Males.git)
   
 ## Contact
 
 For any queries or collaboration requests, please feel free to contact me:
 
 - Email: [pratiktikhe2004@gmail.com](mailto:pratiktikhe2004@gmail.com)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
-- GitHub: [Your GitHub Profile](https://github.com/username)
+- LinkedIn: [MY LinkedIn Profile](https://www.linkedin.com/in/pratik-tikhe-482375288/)
+- GitHub: [My GitHub Profile](https://github.com/Mr-PratikTikhe)
 
 Thank you for visiting my repository!
