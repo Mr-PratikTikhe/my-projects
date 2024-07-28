@@ -11,7 +11,7 @@ Welcome to my GitHub repository! This repository contains various projects that 
 
 ## Front-end Web Development
 
-### 1. [Weather_ForecastApp_WebApp]([https://github.com/username/project-repo](https://github.com/Mr-PratikTikhe/Weather_ForecastApp_WebApp.git))
+### 1. [Weather_ForecastApp_WebApp](https://github.com/Mr-PratikTikhe/Weather_ForecastApp_WebApp.git)
    - **Description:** A brief description of the project, its purpose, and key features.
    - **Technologies Used:** HTML, CSS, JavaScript, React, Node.js
 
