@@ -33,7 +33,7 @@ Welcome to my GitHub repository! This repository contains various projects that 
 
 ## AI-ML
 
-### 1. [Hackathon Project - Geologist Bot](https://github.com/Mr-PratikTikhe/geochatbot.git)
+### 1. [Geologist Bot](https://github.com/Mr-PratikTikhe/geochatbot.git)
   
 
 ## Others
