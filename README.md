@@ -26,10 +26,8 @@ Welcome to my GitHub repository! This repository contains various projects that 
 ### 1. [Basic Fintech app](https://github.com/Mr-PratikTikhe/basic-fintech.git)
    
 ## Java Development
-
-### 1. [ML Model Project](https://github.com/username/ml-model-project)
   
-### 2. [To_Do_List-JAVA-APP](https://github.com/Mr-PratikTikhe/To_Do_List-JAVA-APP.git)
+### 1. [To_Do_List-JAVA-APP](https://github.com/Mr-PratikTikhe/To_Do_List-JAVA-APP.git)
 
 ## AI-ML
 
